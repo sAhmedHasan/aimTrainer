@@ -2,6 +2,18 @@
 A basic aim trainer made using Python with stats 
 
 This is one my first projects that I'm sharing on gitHub to show my progression and imporvement in my understanding of coding.
+
+
+This project provided me with an introduction to fundamental programming concepts such as classes and object-oriented programming. 
+
+I learned how to structure code into reusable components and break down tasks using functions, increasing readability as well as understanding. 
+
+Event handling taught me how to respond to user input and system events effectively.
+
+I gained more understanding in variable scopes and how they impact my functions and code.
+
+I gained experience in utilizing external libraries like Pygame for graphics and game functionalities.
+
 Credits to Tech with Tim
 
 
